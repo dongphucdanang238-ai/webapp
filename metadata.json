@@ -1,0 +1,5 @@
+{
+  "name": "ĐỒNG PHỤC ĐÀ NẴNG",
+  "description": "A web application to track and manage apparel/uniform printing orders. It allows for creating, updating, deleting, and filtering orders, along with a dashboard for key financial metrics.",
+  "requestFramePermissions": []
+}
